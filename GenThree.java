@@ -4,6 +4,7 @@
  */
 public class GenThree {
 	public static void main(String[] args) {
-		// Put your code here	
+		String s = "Hello";
+		System.out.print(s);
 	}
 }
